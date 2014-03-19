@@ -25,7 +25,6 @@
   "homepage": "https://github.com/calvinmetcalf/argsarray",
   "devDependencies": {
     "tape": "^2.10.2",
-    "glob": "^3.2.9",
     "tap-spec": "^0.1.5"
   }
 }
